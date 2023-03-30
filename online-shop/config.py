@@ -1,11 +1,11 @@
 # Bot API
-TOKEN = "5898247314:AAF10jDzxJFERS9fOnrm5dqj1qCaOz8w4hM"
+TOKEN = "TOKEN"
 
 # DB Server
-host = "80.90.184.159"
-username = "gen_user"
-password = "400044911Vm"
-database = "default_db"
+host = "host"
+username = "user"
+password = "password"
+database = "dtabase_name"
 
 
 # PIPELINE 1 - MAIN
